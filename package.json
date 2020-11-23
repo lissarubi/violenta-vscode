@@ -1,0 +1,21 @@
+{
+    "name": "violenta",
+    "displayName": "violenta",
+    "description": "violenta theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Violenta",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Violenta-color-theme.json"
+            }
+        ]
+    }
+}
