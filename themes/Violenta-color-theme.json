@@ -4,6 +4,7 @@
 	"colors": {
 		"editor.background": "#400811",
 		"editor.foreground": "#EEEEEE",
+		"editor.selectionBackground": "#57063C", 
 		"editorGroupHeader.tabsBackground": "#9C031D",
 		"tab.inactiveBackground": "#400811",
 		"activityBarBadge.background": "#400811",
