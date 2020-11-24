@@ -2,9 +2,10 @@
     "name": "violenta",
     "displayName": "violenta",
     "description": "violenta theme",
+    "icon": "assets/logo.png",
     "publisher": "edersonferreira",
     "repository": "https://github.com/edersonferreira/violenta-vscode",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.51.0"
     },
